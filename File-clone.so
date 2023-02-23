@@ -3,7 +3,7 @@
 #ENJOY GUYS
 from os import path
 import os,base64,zlib,pip,urllib
-os.system('xdg-open https://youtube.com/@tbbapurbo/')
+os.system('xdg-open https://youtube.com/@TechWithApurbo/')
 print('\n\033[1;37m install modules...\n It will take some seconds...')
 
 #####################    
@@ -76,11 +76,11 @@ logo=("""'
 \x1b[1;92m█ █▖▐▌   ▝█▄█▘▐▌ ▐▌▐▙▄▟▌ █▄█
 \x1b[1;92m▝▘ ▝▘▝▘    ▝▀▘ ▝▘ ▝▀▝▀▀▀  ▝▀▘
 ----------------------------------------------
- Author    : APURBO SHORKAR
- Github    : mrparadox
- YOUTUBE   : TBB APURBO
- Tool Name : PKM TOOL
- Type type : Free
+ Author    : Tech With Apurbo
+ Github    : Tech With Apurbo
+ YOUTUBE   : Tech With Apurbo
+ FB Page : Tech With Apurbo
+ Tool Name : FILE-CLONE-V2 
  Version   : 0.2
 \033[1;37m----------------------------------------------""")
 def linex():
@@ -318,9 +318,9 @@ def menu():
                                 wx=('Dsj9JMWoixk4Qsje0Ng3nA')
                                 os.system(f'xdg-open https://chat.whatsapp.com/DDDYwrGI4Gk0GyrGlXKCfi/{wx}');menu()
                         elif xd in ['7','07']:
-                                os.system('xdg-open https://youtube.com/@tbbapurbo6210');menu()
+                                os.system('xdg-open https://youtube.com/@TechWithApurbo6210');menu()
                         elif xd in ['8','08']:
-                                os.system('xdg-open https://youtube.com/@tbbapurbo6210/?app=fbl');menu()
+                                os.system('xdg-open https://youtube.com/@TechWithApurbo6210/?app=fbl');menu()
                         elif xd in ['0','00']:
                                 exit(' Thanks for use 🥰 ')
                         else:
@@ -339,7 +339,7 @@ def menu():
                         linex()
                         print(" Your Subscription Date Expire")
                         linex()
-                        url_wa = "https://youtube.com/@tbbtbbapurbo="
+                        url_wa = "https://youtube.com/@tbbTechWithApurbo="
                         name = input(" Enter your Name : ")
                         linex()
                         tks = ("Hi PKM Sir, I Need To Buy Your Paid PKM PRO Tools Version 1.9.0 Premium Please Accept My Key To Premium :)\n\n Name :- "+name+"\n Key :- "+fkeyx)
